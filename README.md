@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-This project is a responsive admin dashboard featuring a central modal for actions (like adding users), a dynamic data table, and seamless integration of a sidebar and navbar for easy navigation. I waanted to add an
+This project is a responsive admin dashboard featuring a central modal for actions (like adding users), a dynamic data table, and seamless integration of a sidebar and navbar for easy navigation. I wanted to add an
 auditing feature but couldn't due to ongoing exams. But I tried to include stuff I could with the time I had.
 
 ## Features
