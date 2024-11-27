@@ -12,7 +12,7 @@ const Main = ({ isSidebarOpen, toggleSidebar }) => {
         <div className="bg-white shadow rounded p-6">
           <h2 className="text-xl font-bold mb-4">Welcome to the Dashboard</h2>
           <p className="text-gray-600">
-            Here is where your main content will appear.
+            Here you can manage all your users and roles. Click on the sidebar.
           </p>
         </div>
       </main>
