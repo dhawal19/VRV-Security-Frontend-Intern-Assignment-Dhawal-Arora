@@ -30,15 +30,17 @@ auditing feature but couldn't due to ongoing exams. But I tried to include stuff
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/admin-dashboard.git
-   cd admin-dashboard
+   git clone https://github.com/dhawal19/VRV-Security-Frontend-Intern-Assignment-Dhawal-Arora.git
+   cd VRV-Security-Frontend-Intern-Assignment-Dhawal-Arora
+   ```
+   Feel free to rename this folder to a shorter name ;)
 
 2. **Install dependencies**
-   - Go to each folder api and client using the command:
+   - Go to each folder API and client using the command:
    ```bash
    cd folder_name
    ```
-   - Replace folder_name with api and client
+   - Replace folder_name with API and client
    - Execute the command:
    ```bash
    npm install
